@@ -17,3 +17,4 @@ public:
 	double VacDistance(Bullet, Weapon); //calcolo distanza massima nel vuoto
 	double VacTime(Bullet, Weapon);
 };
+kk
