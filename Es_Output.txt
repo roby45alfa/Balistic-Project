@@ -1,0 +1,89 @@
+//Le linee di intermezzo indicano la fine e l'inizio di una nuova schermata. Questo è solo un abbozzo, le cose potrebbero cambiare
+//radicalmente, i colori si vedranno alla fine, si possono sempre aggiungere altre opzioni
+
+
+---------------------------------------
+
+		Ballistic Project Simulator
+
+
+
+Premi un tasto per continuare...
+----------------------------------
+
+	||--------------------------------------------||
+	||			||
+	||	<<<Menu>>>	||
+	||			||
+	||--------------------------------------------||
+
+
+Seleziona un numero per continuare:
+
+     0  Salva ed esci 																// esci
+     1  Visualizza dati su file
+     2  Crea una simulazione
+     3  Impostazioni
+     4  Chi siamo?
+
+Scelta: 
+----------------------------------------
+// VISUALIZZA DATI SU FILE 
+  Inserisci il nome del file (solo di formato .pbs): 
+
+-------------------------------------
+//  IMPOSTAZIONI
+	||------------------------------------------------------------||
+	||				||
+	||	  <<<Impostazioni>>>	||
+	||				||
+	||------------------------------------------------------------||
+
+
+Seleziona un numero per cambiare impostazione:
+
+    1  Lingua* //Opzionale e vedremo alla fine
+    2  Colore sfondo
+    3  Colore caratteri
+    4  Ritorna alle impostazione di Default
+    5  Carica impostazioni da file
+    6  Ritorna al Menu principale
+
+Scelta:
+--------------------------------
+*
+Seleziona un numero per cambiare impostazione:
+
+    1 Italiano
+    2 Inglese
+    3 Default (Italiano)
+    4 Ritorna indietro
+    5 Ritorna al Menu
+
+Scelta:
+---------------------------------------
+
+//per le scritte è uguale
+
+|| ATTENZIONE: cambiare lo sfondo dello sfondo potrebbe nascondere alcune scritte con il colore di Default ||
+
+Seleziona un numero per cambiare impostazione:
+
+    1 Rosso
+//tutti i vari colori possibili
+
+Scelta:
+------------------------------------------
+// CHI SIAMO
+	||---------------------------------------------------||
+	||			       ||
+	||	<<<Chi siamo?>>>	       ||
+	||			       ||
+	||---------------------------------------------------||
+
+//piccola discrizione e la spartizione dei compiti a mo' di totoli di coda
+
+Premi 0 [zero] per tornare al Menu principale...
+--------------------------------
+
+
